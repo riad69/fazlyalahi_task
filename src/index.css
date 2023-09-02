@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-status{
+    color: green; 
+}
+.not-active-status{
+    color: red; 
+}
